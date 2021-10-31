@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Combo Cine">
+    <display-name lang="pt">Combo Cine</display-name>
+    <icon src="../canais/1575981825.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <icon src="../canais/1619099424.gif|../canais/1617141781.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Conecta TV">
+    <display-name lang="pt">Conecta TV</display-name>
+    <icon src="../canais/foxsports2.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Conexão BR">
+    <display-name lang="pt">Conexão BR</display-name>
+    <icon src="../canais/syfy.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cultura">
+    <display-name lang="pt">Cultura</display-name>
+    <icon src="../canais/tvprimaveradoleste.gif|../canais/recordtv.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Curta!">
+    <display-name lang="pt">Curta!</display-name>
+    <icon src="../canais/1622145490.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <icon src="../canais/1633438143.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Civilization">
+    <display-name lang="pt">Discovery Civilization</display-name>
+    <icon src="../canais/1624242868.gif|../canais/cultura.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <icon src="../canais/1583020009.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <icon src="../canais/1617500539.gif|../canais/1617398389.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="pt">Discovery Science</display-name>
+    <icon src="../canais/1597866764.gif|../canais/telemundo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Theater">
+    <display-name lang="pt">Discovery Theater</display-name>
+    <icon src="../canais/1610024996.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <icon src="../canais/1573490506.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Discovery World">
+    <display-name lang="pt">Discovery World</display-name>
+    <icon src="../canais/disney.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <icon src="../canais/1622466328.gif|../canais/cw.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
+    <icon src="../canais/tvmeionorte-maranhao.gif|../canais/1591219599.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+    <icon src="../canais/1597778570.gif|../canais/cbs.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="DogTV">
+    <display-name lang="pt">DogTV</display-name>
+    <icon src="../canais/1570382147.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+</tv>
